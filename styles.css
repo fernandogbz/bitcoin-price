@@ -32,3 +32,9 @@ main {
 .bitcoin-item {
   background-color: #f2a900;
 }
+
+.dollar-item {
+  opacity: 0;
+  background-color: #58bc82;
+}
+
