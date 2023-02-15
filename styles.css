@@ -41,5 +41,12 @@ main {
   animation-name: opacity;
 }
 
-
+@keyframes opacity {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
 
