@@ -28,3 +28,7 @@ main {
   align-items: center;
   margin: 5px 5px 5px 0;
 }
+
+.bitcoin-item {
+  background-color: #f2a900;
+}
