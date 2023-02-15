@@ -13,3 +13,9 @@ main {
   margin: 100px auto;
 }
 
+.coin-container {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 25px;
+}
+
